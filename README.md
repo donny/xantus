@@ -28,7 +28,7 @@ An intent is a way to define phrases that trigger an action and responses follow
 
 ![Screenshot3](https://raw.githubusercontent.com/donny/xantus/master/screenshot3.png)
 
-The red arrow specifies the phrases that can trigger the `easteregg.why_chicken_cross_road` intent. For example: `do you know why chicken crosses the road`. The blue arrow specifies the corresponding responses. For example: `It was Chuck Norris's chicken. That's what she does.`.
+The red arrow specifies the phrases that can trigger the `easteregg.why_chicken_cross_road` intent. For example: `do you know why chicken crosses the road`. The blue arrow specifies the corresponding responses. For example: `to complete another level of Angry Birds`.
 
 After defining some simple intents, we could deploy it by going to the `Integrations` section of the side menu. And turn on the `Actions on Google` integration as shown by the two screenshots below:
 
@@ -37,6 +37,12 @@ After defining some simple intents, we could deploy it by going to the `Integrat
 ![Screenshot5](https://raw.githubusercontent.com/donny/xantus/master/screenshot5.png)
 
 According to Wikipedia, [Actions on Google](https://en.wikipedia.org/wiki/Actions_on_Google) is a program for developers of "Actions" (software applications) that run via Google Assistant on devices such as the Google Home smart speaker and the Google Pixel smartphone and on the Google Allo mobile app.
+
+After setting up Actions on Google, we could test our agent using the web simulator as shown by the two screenshots below:
+
+![Screenshot6](https://raw.githubusercontent.com/donny/xantus/master/screenshot6.png)
+
+![Screenshot7](https://raw.githubusercontent.com/donny/xantus/master/screenshot7.png)
 
 ### Conclusion
 
