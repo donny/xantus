@@ -46,4 +46,4 @@ After setting up Actions on Google, we could test our agent using the web simula
 
 ### Conclusion
 
-...
+I created the agent from some predefined templates and I didn't fully explore the capability of API.AI. But it's very easy to get started and get something going in a short amount of time. The one thing that I would like to see from API.AI is the ability to define the intents and actions using a file (JSON, XML, YAML, or whatever) rather than clicking and typing on the web UI. This allows us to version-control our Google Home "code". I tend to forget things when I use the web UI.
